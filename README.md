@@ -1,7 +1,7 @@
 <div align="center">
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=%E2%9C%A8+People+who+goon+to+Furina+have+good+taste.+%E2%9C%A8"
-  alt="Don't"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Don't.+%E2%9C%A8"
+  alt="People who goon to Furina have good taste."
 />
 <!-- <br><br>
 <img
